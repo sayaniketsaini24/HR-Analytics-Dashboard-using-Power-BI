@@ -39,4 +39,8 @@ This project focuses on building an **interactive HR Analytics Dashboard** in **
 To explore the **HR Analytics Dashboard** and gain insights into **employee attrition** and other key metrics:
 1. **Dashboard Screenshot**: View the provided screenshot for a quick overview of the dynamic HR dashboard.
 2. **Open the Power BI File**: Access the provided Power BI file to interact with the data and gain valuable insights from the **cleaned and pre-processed HR metrics**.
-3. **Power BI File**: Download and open the **HR Analytics Dashboard** Power BI file to explore **employee attrition rates**, **department-wise analysis**, and more. <a href="https://github.com/sayaniketsaini24/Madhav-Ecommerce-Sales-Dashboard-Using-Power-BI/blob/main/Madhav%20Ecommerce%20Sale%20Power%20BI%20Dashboard.pbix">Clink Here</a>
+3. **Power BI File**: Download and open the **HR Analytics Dashboard** Power BI file to explore **employee attrition rates**, **department-wise analysis**, and more. <a href="https://github.com/sayaniketsaini24/HR-Analytics-Dashboard-using-Power-BI/blob/main/HR%20Analytics%20Dashboard%20using%20Power%20BI.pbix">Clink Here</a>
+
+## **Final Conclusion:**
+
+The **HR Analytics Dashboard** built using **Power BI** offers a comprehensive view of **employee attrition** and key HR metrics, enabling HR teams to make **data-driven decisions**. By analyzing factors such as **gender, department, job role, and education field**, the dashboard provides valuable insights into the **causes of employee turnover**. The findings highlight areas like **Research and Development**, **Sales roles**, and **Life Sciences**, where focused retention strategies can be implemented to reduce attrition rates. This project demonstrates the power of **data visualization** in optimizing HR processes and improving **employee retention** efforts.
